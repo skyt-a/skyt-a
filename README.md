@@ -2,4 +2,4 @@
 Web application developer in Tokyo, Japan.
 I use React, TypeScript, GraphQL...etc
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RinGoku&repo=RinGoku)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RinGoku)](https://github.com/anuraghazra/github-readme-stats)
