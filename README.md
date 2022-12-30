@@ -9,4 +9,16 @@ I use React, TypeScript, GraphQL, C#(Unity) ...etc
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RinGoku&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RinGoku&theme=default)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 December 2022 - To: 29 December 2022
+
+Total Time: 29 hrs 58 mins
+
+TypeScript   22 hrs 44 mins  >>>>>>>>>>>>>>>>>>>------   75.85 %
+Astro        2 hrs 56 mins   >>-----------------------   09.79 %
+JavaScript   1 hr 8 mins     >------------------------   03.82 %
+Other        49 mins         >------------------------   02.73 %
+```
+
 <!--END_SECTION:waka-->
