@@ -7,3 +7,6 @@ I use React, TypeScript, GraphQL, C#(Unity) ...etc
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RinGoku&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RinGoku&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RinGoku&theme=default)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
