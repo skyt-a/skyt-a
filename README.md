@@ -11,7 +11,7 @@ I use React, TypeScript, GraphQL, C#(Unity) ...etc
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 02 January 2023
+From: 19 December 2022 - To: 03 January 2023
 
 Total Time: 37 hrs 46 mins
 
