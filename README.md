@@ -11,16 +11,16 @@ I use React, TypeScript, GraphQL, C#(Unity) ...etc
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 24 February 2023
+From: 19 December 2022 - To: 25 February 2023
 
-Total Time: 117 hrs 34 mins
+Total Time: 120 hrs
 
-TypeScript   77 hrs 2 mins   >>>>>>>>>>>>>>>>---------   65.52 %
-YAML         11 hrs 41 mins  >>-----------------------   09.94 %
-JSON         8 hrs 56 mins   >>-----------------------   07.60 %
-JavaScript   4 hrs 26 mins   >------------------------   03.77 %
-Markdown     4 hrs 16 mins   >------------------------   03.63 %
-HTML         3 hrs 16 mins   >------------------------   02.79 %
+TypeScript   77 hrs 2 mins   >>>>>>>>>>>>>>>>---------   64.19 %
+YAML         12 hrs 5 mins   >>>----------------------   10.08 %
+JSON         8 hrs 56 mins   >>-----------------------   07.45 %
+Markdown     4 hrs 31 mins   >------------------------   03.77 %
+JavaScript   4 hrs 26 mins   >------------------------   03.70 %
+HTML         3 hrs 16 mins   >------------------------   02.73 %
 ```
 
 <!--END_SECTION:waka-->
