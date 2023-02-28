@@ -1,8 +1,11 @@
 [![Github](https://img.shields.io/github/followers/RinGoku?label=Follow&style=social)](https://github.com/RinGoku)
 
-### About RinGoku
-Web application developer in Tokyo, Japan.
-I use React, TypeScript, GraphQL, C#(Unity) ...etc
+### About Me
+#### Professional
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,java,graphql,firebase&theme=light)](https://skillicons.dev)
+#### Hobby
+[![My Skills](https://skillicons.dev/icons?i=unity,rust,py&theme=light)](https://skillicons.dev)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RinGoku&theme=default)
 
