@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,rust,py&theme=light)](https://skillicons.dev)
 
 ### Zenn
-https://zenn.dev/ringoku/articles/c003d1b2f9e30e
+https://zenn.dev/ringoku
 ### Qiita
 https://qiita.com/RinGoku
 
