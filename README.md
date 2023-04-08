@@ -19,16 +19,16 @@ https://qiita.com/RinGoku
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 05 April 2023
+From: 19 December 2022 - To: 06 April 2023
 
-Total Time: 191 hrs
+Total Time: 192 hrs 59 mins
 
-TypeScript   122 hrs 37 mins >>>>>>>>>>>>>>>>---------   64.20 %
-YAML         15 hrs 22 mins  >>-----------------------   08.05 %
-Markdown     13 hrs 10 mins  >>-----------------------   06.90 %
-JSON         11 hrs 37 mins  >>-----------------------   06.09 %
-Rust         8 hrs 52 mins   >------------------------   04.64 %
-JavaScript   7 hrs           >------------------------   03.67 %
+TypeScript   123 hrs 10 mins >>>>>>>>>>>>>>>>---------   63.83 %
+YAML         15 hrs 22 mins  >>-----------------------   07.97 %
+Markdown     14 hrs 23 mins  >>-----------------------   07.46 %
+JSON         11 hrs 48 mins  >>-----------------------   06.12 %
+Rust         8 hrs 52 mins   >------------------------   04.60 %
+JavaScript   7 hrs           >------------------------   03.63 %
 ```
 
 <!--END_SECTION:waka-->
