@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/RinGoku?label=Follow&style=social)](https://github.com/skyt-a)
+[![Github](https://img.shields.io/github/followers/skyt-a?label=Follow&style=social)](https://github.com/skyt-a)
 
 ### About Me
 #### Professional
