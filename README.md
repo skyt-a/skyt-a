@@ -19,7 +19,7 @@ https://qiita.com/RinGoku
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2022 - To: 22 September 2023
+From: 19 December 2022 - To: 23 September 2023
 
 Total Time: 718 hrs 58 mins
 
