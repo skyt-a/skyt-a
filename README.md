@@ -1,9 +1,9 @@
 [![Github](https://img.shields.io/github/followers/skyt-a?label=Follow&style=social)](https://github.com/skyt-a)
 
-### About Me
-#### Professional
+## About Me
+### Professional
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,java,graphql,firebase,githubactions&theme=light)](https://skillicons.dev)
-#### Hobby
+### Hobby
 [![My Skills](https://skillicons.dev/icons?i=unity,rust,py&theme=light)](https://skillicons.dev)
 
 ### Zenn
