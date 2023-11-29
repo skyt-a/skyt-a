@@ -9,7 +9,7 @@
 ### Zenn
 https://zenn.dev/ringoku
 ### Qiita
-https://qiita.com/RinGoku
+https://qiita.com/sky_t
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyt-a&theme=default)
