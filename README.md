@@ -19,7 +19,7 @@ https://qiita.com/sky_t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2022 - To: 01 August 2025
+From: 19 December 2022 - To: 02 August 2025
 
 Total Time: 2,170 hrs 7 mins
 
