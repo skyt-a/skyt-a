@@ -19,11 +19,11 @@ https://qiita.com/sky_t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2022 - To: 29 November 2025
+From: 19 December 2022 - To: 30 November 2025
 
-Total Time: 2,398 hrs 5 mins
+Total Time: 2,399 hrs 4 mins
 
-TypeScript                 1,914 hrs 33 mins>>>>>>>>>>>>>>>>>>>>-----   79.84 %
+TypeScript                 1,914 hrs 33 mins>>>>>>>>>>>>>>>>>>>>-----   79.80 %
 YAML                       93 hrs 36 mins  >------------------------   03.90 %
 JSON                       78 hrs          >------------------------   03.25 %
 Markdown                   46 hrs 6 mins   -------------------------   01.92 %
